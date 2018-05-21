@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Método de solicitud de servidor desconocido'
 	),
 	'email' => array(
-		'from' => 'valentin.alejandro.p.z@gmail.com',
-		'to' => 'valentin.alejandro.p.z@gmail.com'
+		'from' => 'Info@cactilia.com',
+		'to' => 'Info@cactilia.com'
 	),
 	'fields' => array(
 		'custom_U24672' => array(
